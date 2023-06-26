@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <a href="http://staging.smandes.gov.ar/gitea/Pruebas/vite-mf-react-ts/wiki">Lea más acerca de su implementación</a>
+  <a href="https://github.com/nikodev-documentacion/microfront-nested-router/wiki">Lea más acerca de su implementación</a>
 </p>
 
 <br/>
